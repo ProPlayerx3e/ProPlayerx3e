@@ -17,3 +17,4 @@
 + Specialized in Multiplayer Architecture
 + Performance-Driven Game System Design
 + Backend Automation & Server Logic
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProPlayerx3e&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF"/> <br/> <img src="https://streak-stats.demolab.com?user=ProPlayerx3e&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"/> </p>
