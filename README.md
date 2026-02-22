@@ -44,11 +44,6 @@
 
 ---
 
-<!-- GITHUB TROPHIES -->
-
-
----
-
 <!-- CONTRIBUTION SNAKE -->
 ### 🐍 Contribution Snake
 
