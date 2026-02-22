@@ -37,6 +37,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ProPlayerx3e&style=for-the-badge&color=blueviolet" />
 </p>
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=ProPlayerx3e;Python+%7C+C%2B%2B+%7C+C%23+%7C+Pawn;Code.+Game.+Repeat." alt="Typing SVG" />
-</div>
