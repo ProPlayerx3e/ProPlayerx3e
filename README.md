@@ -45,11 +45,7 @@
 ---
 
 <!-- GITHUB TROPHIES -->
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProPlayerx3e&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
