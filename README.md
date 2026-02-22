@@ -42,4 +42,4 @@ I focus on clean logic, performance optimization, and building systems that feel
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ProPlayerx3e=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
