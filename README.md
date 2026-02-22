@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Abdullah</h1>
+<p align="center">
+Multiplayer Game Developer • Systems Engineer • SA-MP Specialist
+</p>
 
-<!--
-**ProPlayerx3e/ProPlayerx3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a multiplayer-focused game developer passionate about building scalable and immersive roleplay systems.
+
+Founder & Lead Developer of **Thug Life RP** — a custom SA-MP roleplay server featuring advanced gameplay mechanics and dynamic event systems.
+
+I focus on clean logic, performance optimization, and building systems that feel professional and polished.
+
+---
+
+## 🚀 Technical Focus
+
+- 🎮 Multiplayer Game Systems
+- 🧠 Advanced Roleplay Mechanics
+- 🛠️ Server-side Development (Pawn)
+- 🐍 Automation & Tools (Python)
+- 🌐 Backend Systems (PHP / Web Integration)
+
+---
+
+## 🔥 Notable Work
+
+- Dynamic Ship Heist Event System
+- Custom Family & Ranking System
+- Battle Business Framework
+- Live Server Integration Tools
+
+---
+
+## 🧩 Philosophy
+
+> Great systems aren’t just coded — they’re engineered.
+
+---
+
+## 📈 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&show_icons=true&theme=tokyonight)
