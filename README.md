@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=ProPlayerx3e;Python+%7C+C%2B%2B+%7C+C%23+%7C+Pawn;Code.+Game.+Repeat." alt="Typing SVG" />" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=ProPlayerx3e;Python+%7C+C%2B%2B+%7C+C%23+%7C+Pawn;Code.+Game.+Repeat." alt="Typing SVG" />"
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+ProPlayerx3e;Python+%7C+C%2B%2B+%7C+C%23+%7C+Pawn;Always+learning+new+things" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
