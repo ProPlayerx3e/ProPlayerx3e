@@ -1,45 +1,50 @@
 <h1 align="center">Abdullah</h1>
 <p align="center">
-Multiplayer Game Developer • Systems Engineer • SA-MP Specialist
+Elite Multiplayer Systems Developer
+</p>
+
+<p align="center">
+Founder & Lead Engineer of <b>Thug Life RP</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⚔️ Engineering Focus
 
-I’m a multiplayer-focused game developer passionate about building scalable and immersive roleplay systems.
-
-Founder & Lead Developer of **Thug Life RP** — a custom SA-MP roleplay server featuring advanced gameplay mechanics and dynamic event systems.
-
-I focus on clean logic, performance optimization, and building systems that feel professional and polished.
-
----
-
-## 🚀 Technical Focus
-
-- 🎮 Multiplayer Game Systems
-- 🧠 Advanced Roleplay Mechanics
-- 🛠️ Server-side Development (Pawn)
-- 🐍 Automation & Tools (Python)
-- 🌐 Backend Systems (PHP / Web Integration)
+- Multiplayer Game Architecture
+- Advanced SA-MP Roleplay Systems
+- High-Performance Server Logic (Pawn)
+- Backend Development (Python / PHP)
+- Custom Gameplay Framework Design
 
 ---
 
-## 🔥 Notable Work
+## 🧠 Core Strength
 
-- Dynamic Ship Heist Event System
-- Custom Family & Ranking System
-- Battle Business Framework
-- Live Server Integration Tools
+I don’t just script features —  
+I engineer scalable systems built for performance, immersion, and longevity.
 
 ---
 
-## 🧩 Philosophy
+## 🔥 Signature Projects
 
-> Great systems aren’t just coded — they’re engineered.
+- Dynamic Ship Heist Event Framework  
+- Full Family & Ranking System  
+- Battle Business System (GTA Online Inspired)  
+- Live Server Tools & Automation Systems  
 
 ---
 
-## 📈 Stats
+## 📊 GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Abdullah=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProPlayerx3e&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Systems over shortcuts.”</b>
+</p>
