@@ -64,14 +64,6 @@
 
 ---
 
-<!-- WAKATIME STATS (optional – if you use WakaTime) -->
-### ⏱️ WakaTime Stats
-<a href="https://wakatime.com/@ProPlayerx3e">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ProPlayerx3e&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</a>
--->
-
----
 
 <!-- RANDOM DEV QUOTE -->
 ### 💡 Random Dev Quote
