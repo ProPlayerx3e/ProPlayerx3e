@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/965409848013488130"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:marygd405@gmail.com
+  <a href="mailto: pro_playerx322@outlook.sa
 "><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
