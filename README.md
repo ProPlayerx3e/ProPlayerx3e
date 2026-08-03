@@ -34,11 +34,11 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<<!-- GITHUB STATS (WITH CACHE BUSTING) -->
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&theme=tokyonight&hide_border=true&show_icons=true&v=1" alt="GitHub Stats" />
 </div>
 
 ---
