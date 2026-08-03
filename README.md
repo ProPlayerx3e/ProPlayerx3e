@@ -37,9 +37,7 @@
 <<!-- GITHUB STATS (WITH CACHE BUSTING) -->
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&theme=tokyonight&hide_border=true&show_icons=true&v=1" alt="GitHub Stats" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ProPlayerx3e&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ProPlayerx3e&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
 
 ---
 
