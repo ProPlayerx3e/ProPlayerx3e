@@ -34,11 +34,11 @@
 
 ---
 
-<!-- GITHUB STATS & STREAK -->
+<!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ProPlayerx3e&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProPlayerx3e&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
