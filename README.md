@@ -34,7 +34,7 @@
 
 ---
 
-<<!-- GITHUB STATS (WITH CACHE BUSTING) -->
+<<!-- GITHUB STATS (WITH CACHE BUSTING) -->>
 ### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ProPlayerx3e&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ProPlayerx3e&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
