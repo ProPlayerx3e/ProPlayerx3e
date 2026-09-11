@@ -34,7 +34,7 @@
 
 ---
 
-<!-- GITHUB STATS (WITH CACHE BUSTING) -->
+<!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ProPlayerx3e&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ProPlayerx3e&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
@@ -55,9 +55,7 @@
 <!-- RECENT ACTIVITY GRAPH -->
 ### 📈 Contribution Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProPlayerx3e&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph">
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProPlayerx3e&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -74,8 +72,8 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://discord.com/users/965409848013488130"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:pro_playerx322@outlook.sa"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://discord.com/users/965409848013488130"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:pro_playerx322@outlook.sa"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
