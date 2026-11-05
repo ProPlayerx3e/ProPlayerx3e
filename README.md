@@ -55,7 +55,9 @@
 <!-- RECENT ACTIVITY GRAPH -->
 ### 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProPlayerx3e)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph]<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://raw.githubusercontent.com/username/username/output/activity-graph.svg?v=1" alt="username github activity graph">
+</a>
 
 ---
 
