@@ -70,15 +70,6 @@
 </picture>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--               ACTIVITY GRAPH                   -->
-<!-- ══════════════════════════════════════════════ -->
-### 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProPlayerx3e&theme=react-dark&hide_border=true&area=true)](https://github.com/ProPlayerx3e)
-
----
-
 <!-- ══════════════════════════════════════════════ -->
 <!--                RANDOM DEV QUOTE                -->
 <!-- ══════════════════════════════════════════════ -->
